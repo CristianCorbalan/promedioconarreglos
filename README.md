@@ -1,2 +1,2 @@
-# promedioconarreglos
+# LegibilidadArreglos
 Created with CodeSandbox
